@@ -21,8 +21,10 @@ O que ele faz?
 
 ![image](https://github.com/user-attachments/assets/544fdcb9-6f66-4c97-bdd3-2f0fad5473a6)
 
-  
-
-
 Ele ainda conta com um sistema de pontos, para determinar qual será a proxima fila a ter uma pessoa chamada.
+
+## Como Executar:
+
+- Baixar o arquivo **LIFO.jar**
+- Executar o comando no terminal: java -jar "caminho do LIFO.jar"
 
